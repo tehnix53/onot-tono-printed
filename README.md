@@ -28,7 +28,7 @@ Images are **full copies** (not symlinks), ready to `git add` / push.
 ### Real inkjet TONO
 
 Only **hat (`cap`)** and **pose (`tq`)** are reliable. Other inkjet attack
-folders are present but empty (axis mismatch in the original extract).
+folders are present but empty.
 
 ## Examples
 
