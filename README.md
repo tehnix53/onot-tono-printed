@@ -1,10 +1,9 @@
-# repo_onot_tono
+# ONOT-TONO Printed
 
 ONOT–TONO **256** print corpus for ICAO face-quality work.
 
 - **synthetic/** — simulated print techniques (5 techs)
 - **real/** — physically printed and scanned (toner + inkjet)
-- No digital ICAO originals in this tree
 
 Protocol: ONOT-TONO 256 (`bona256` + ICAO attack axes from the 256icao pairing).
 
