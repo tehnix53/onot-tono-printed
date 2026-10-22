@@ -1,0 +1,2 @@
+S150094415-GF-A53-EME-T10-S1-LH-C1-I0055-F00.png
+Used in examples/synth_5tech.png and examples/real_2tech.png
